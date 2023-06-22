@@ -1,2 +1,7 @@
-# opa_apps
-All the professional module developed and deployed in organisation
+# Odoo Personal Addons for Application
+
+
+All the professional modules developed and deployed in organization. Two main projects are 
+## MTBL 
+## EMK
+
