@@ -1,4 +1,4 @@
-# Genweb2 Business Solution [GBS]
+# Odoo Personal Addons for Application
 Table of Contents
 =================
 
